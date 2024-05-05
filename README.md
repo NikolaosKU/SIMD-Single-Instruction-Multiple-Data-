@@ -16,4 +16,5 @@ All commands were executed in terminal in a Mac OS 2019, intel x86-64 processor.
 Once succesfully executed locally, I remotely conneced via ssh to a linux machine of KU Leuven Computer Science department. 
 I compiled and executed the program thre sucesfully as well. For modifications of the files I used 'nano'.
 
-The code is not my property. Part of the code was provided by the BDAP team of the engineering department of KU Leuven. Warm regards, Nikolaos Kales
+! Disclaimer:  Part of the code was provided by the BDAP team of the engineering department of KU Leuven. !
+Warm regards, Nikolaos Kales
